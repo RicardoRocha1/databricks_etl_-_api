@@ -1,2 +1,2 @@
-# databricks_etl_-_api
+# Databricks ETL and API
 ETL and API for epigenetics news in .dbc.
